@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Casino News Website
 
-You can use the [editor on GitHub](https://github.com/thecasinodaily/news/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This Github project is dedicated to the development of an upcoming daily [casino news](https://www.thecasinodaily.com) blog in collaboration with [CasinoTopp.net](https://casinotopp.net). The aim of this project is the provide the world with latest news from the world of Gambling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Features of this site will include, providing news under certain categories
 
-### Markdown
+- Casino News
+- Industry News
+- Law & Order News
+- Poker News
+- Regional News from
+-- Sweden
+-- USA
+-- Norway
+-- Germany
+-- Thailand
+-- Other parts of the World
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project will allow other contributors to submit through the site. Only items which pass our editorial review will actually go live on the site.
 
-```markdown
-Syntax highlighted code block
+### Contact us
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thecasinodaily/news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any queries you can directly contact us from your Github Project page.
